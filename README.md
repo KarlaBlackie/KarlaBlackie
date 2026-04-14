@@ -5,11 +5,7 @@
 
 Here are some ideas to get you started:
 
-¡Hola! Soy profesora con especialización en inglés y una entusiasta de la tecnología en formación. Mi camino en el desarrollo web nació del deseo de unir la programación con mi profundo amor por los animales.
 
-Como actual estudiante de Desarrollador Frontend Trainee, me dedico a construir aplicaciones que den visibilidad a los perros en situación de calle, refugios o abandonados. Mi misión es crear proyectos que faciliten la adopción de estos perritos y sus futuras familias, utilizando mis habilidades técnicas para fomentar la conciencia social, la adopción y, sobre todo, la tenencia responsable.
-
-Creo firmemente en la tecnología como una herramienta para tender una mano a quienes no tienen voz, desarrollando plataformas que eduquen y ayuden a transformar la realidad de los animales abandonados.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
