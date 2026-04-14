@@ -15,6 +15,11 @@ Promuevo la adopción y el bienestar animal a través de mi canal de YouTube: **
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
+
+### 🎓 Educación
+- **Magíster en [Magíster en Educación, mención Inglés]** - [Universidad Central Santiago]
+- **Profesora con Especialización en Inglés**
+- **Desarrollador Frontend Trainee** - 
 - **Idiomas:** Inglés (Especialista) / Español.
 - **Soft Skills:** Comunicación efectiva, educación y gestión de proyectos sociales.
 
