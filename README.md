@@ -6,7 +6,7 @@ Como actual estudiante de Desarrollador Frontend Trainee, me dedico a construir 
 
 Creo firmemente en la tecnología como una herramienta para tender una mano a quienes no tienen voz, desarrollando plataformas que eduquen y ayuden a transformar la realidad de los animales abandonados.
 
-### 📢 Mi Proyecto Social
+### 📢 Mi Proyecto Social 🐾
 Promuevo la adopción y el bienestar animal a través de mi canal de YouTube: **La Manada del Corazón**. Este espacio es el motor de inspiración detrás de mis proyectos de software.
 
 ### 🛠️ Tecnologías y habilidades
