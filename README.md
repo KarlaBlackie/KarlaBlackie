@@ -14,7 +14,11 @@ Promuevo la adopción y el bienestar animal a través de mi canal de YouTube: **
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg)
+![Github](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg)
+![VS Code](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg)
+![Vitest(Testing)](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg)
+![Sass](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg)
 
 ### 🎓 Educación
 - **Magíster en [Magíster en Educación, mención Inglés]** - [Universidad Central, Santiago]
