@@ -17,7 +17,7 @@ Promuevo la adopción y el bienestar animal a través de mi canal de YouTube: **
 
 
 ### 🎓 Educación
-- **Magíster en [Magíster en Educación, mención Inglés]** - [Universidad Central Santiago]
+- **Magíster en [Magíster en Educación, mención Inglés]** - [Universidad Central, Santiago]
 - **Profesora con Especialización en Inglés**
 - **Desarrollador Frontend Trainee** - 
 - **Idiomas:** Inglés (Especialista) / Español.
