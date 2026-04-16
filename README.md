@@ -33,7 +33,7 @@ Te dejo el link: https://github.com/KarlaBlackie/Weather-wellness-portfolio
 </div>
 <br clear="right" />
 
-<div align="justify>
+<div align="justify">
 ### 🎓 Educación
 - **Magíster en [Magíster en Educación, mención Inglés]** - [Universidad Central, Santiago]
 - **Profesora con Especialización en Inglés**
