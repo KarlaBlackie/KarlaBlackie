@@ -15,11 +15,9 @@ https://github.com/KarlaBlackie/Weather-wellness-portfolio
 Aplicación del clima y binestar emocional, una SPA(Single page application) desarrollada con Vue 3**, enfocada en  proporcionar información climática en tiempo real combinada con mensajes de bienestar emocional y estadísticas avanzadas.
 Esta versión integra un sistema de autenticación, gestión de estado global con **Vuex**, rutas protegidas y una profunda lógica de datos metereológicos.
 Te dejo el link: https://github.com/KarlaBlackie/Weather-wellness-portfolio
-
-
+</div>
 
 ### 🛠️ Tecnologías y habilidades
-
 
 <div align="right">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"      width="35" height="35" alt="HTML5" />
@@ -35,9 +33,7 @@ Te dejo el link: https://github.com/KarlaBlackie/Weather-wellness-portfolio
 </div>
 <br clear="right" />
 
-
-
-
+<div align="justify>
 ### 🎓 Educación
 - **Magíster en [Magíster en Educación, mención Inglés]** - [Universidad Central, Santiago]
 - **Profesora con Especialización en Inglés**
