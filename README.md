@@ -31,6 +31,7 @@ Te dejo el link: https://github.com/KarlaBlackie/Weather-wellness-portfolio
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="35" height="35" alt="VSCode" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width="35" height="35" alt="Vitest" />
 </p>
+<br clear="right" />
 
 
 
