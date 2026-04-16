@@ -19,7 +19,7 @@ Te dejo el link: https://github.com/KarlaBlackie/Weather-wellness-portfolio
 
 
 ### 🛠️ Tecnologías y habilidades
-<p align="left">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt="JS" />
@@ -32,7 +32,7 @@ Te dejo el link: https://github.com/KarlaBlackie/Weather-wellness-portfolio
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40" alt="VSCode" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width="40" height="40" alt="Vitest" />
-</p>
+</div>
 
 ### 🎓 Educación
 - **Magíster en [Magíster en Educación, mención Inglés]** - [Universidad Central, Santiago]
