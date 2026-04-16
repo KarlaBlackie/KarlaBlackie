@@ -7,17 +7,17 @@ Como actual estudiante de Desarrollador Frontend Trainee, me dedico a construir 
 
 Creo firmemente en la tecnología como una herramienta para tender una mano a quienes no tienen voz, desarrollando plataformas que eduquen y ayuden a transformar la realidad de los animales abandonados.
 
-### 📢 Mi Proyecto Social 🐾
+ 📢 Mi Proyecto Social 🐾
 Promuevo la adopción y el bienestar animal a través de mi canal de YouTube: **La Manada del Corazón**. Este espacio es el motor de inspiración detrás de mis proyectos de software.
 
-### Proyectos destacados 
+Proyectos destacados 
 https://github.com/KarlaBlackie/Weather-wellness-portfolio
 Aplicación del clima y binestar emocional, una SPA(Single page application) desarrollada con Vue 3**, enfocada en  proporcionar información climática en tiempo real combinada con mensajes de bienestar emocional y estadísticas avanzadas.
 Esta versión integra un sistema de autenticación, gestión de estado global con **Vuex**, rutas protegidas y una profunda lógica de datos metereológicos.
 Te dejo el link: https://github.com/KarlaBlackie/Weather-wellness-portfolio
 </div>
 
-### 🛠️ Tecnologías y habilidades
+🛠️ Tecnologías y habilidades
 
 <p align="right">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"      width="35" height="35" alt="HTML5" />
@@ -34,14 +34,14 @@ Te dejo el link: https://github.com/KarlaBlackie/Weather-wellness-portfolio
 <br clear="right" />
 
 <div align="justify">
-### 🎓 Educación
+🎓 Educación
 - **Magíster en [Magíster en Educación, mención Inglés]** - [Universidad Central, Santiago]
 - **Profesora con Especialización en Inglés**
 - **Desarrollador Frontend Trainee** - 
 - **Idiomas:** Inglés (Especialista) / Español.
 - **Soft Skills:** Comunicación efectiva, educación y gestión de proyectos sociales.
 
-### 📫 Conectemos:
+📫 Conectemos:
 - **YouTube:** [La Manada del Corazón](https://www.youtube.com/channel/UC981MPMfnppNtxBPLmYHxIQ)
 - **LinkedIn:**
 </div>
