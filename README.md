@@ -9,6 +9,9 @@ Creo firmemente en la tecnología como una herramienta para tender una mano a qu
 ### 📢 Mi Proyecto Social 🐾
 Promuevo la adopción y el bienestar animal a través de mi canal de YouTube: **La Manada del Corazón**. Este espacio es el motor de inspiración detrás de mis proyectos de software.
 
+### Proyectos destacados 
+
+
 ### 🛠️ Tecnologías y habilidades
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />
