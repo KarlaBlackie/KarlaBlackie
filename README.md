@@ -19,7 +19,7 @@ Te dejo el link: https://github.com/KarlaBlackie/Weather-wellness-portfolio
 
 ### 🛠️ Tecnologías y habilidades
 
-<div align="right">
+<p align="right">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"      width="35" height="35" alt="HTML5" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="30" height="35" alt="CSS3" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35" height="35" alt="JS" />
@@ -30,7 +30,7 @@ Te dejo el link: https://github.com/KarlaBlackie/Weather-wellness-portfolio
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="35" height="35" alt="GitHub" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="35" height="35" alt="VSCode" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitest/vitest-original.svg" width="35" height="35" alt="Vitest" />
-</div>
+</p>
 <br clear="right" />
 
 <div align="justify">
