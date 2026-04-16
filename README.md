@@ -1,3 +1,4 @@
+<div align="justify">
 ## Hola, soy Karla 👋
 
 ¡Hola! Soy profesora con especialización en inglés y una entusiasta de la tecnología en formación. Mi camino en el desarrollo web nació del deseo de unir la programación con mi profundo amor por los animales.
@@ -43,6 +44,7 @@ Te dejo el link: https://github.com/KarlaBlackie/Weather-wellness-portfolio
 ### 📫 Conectemos:
 - **YouTube:** [La Manada del Corazón](https://www.youtube.com/channel/UC981MPMfnppNtxBPLmYHxIQ)
 - **LinkedIn:**
+</div>
 
 
 <!--
