@@ -10,6 +10,10 @@ Creo firmemente en la tecnología como una herramienta para tender una mano a qu
 Promuevo la adopción y el bienestar animal a través de mi canal de YouTube: **La Manada del Corazón**. Este espacio es el motor de inspiración detrás de mis proyectos de software.
 
 ### Proyectos destacados 
+https://github.com/KarlaBlackie/Weather-wellness-portfolio
+Aplicación del clima y binestar emocional, una SPA(Single page application) desarrollada con Vue 3**, enfocada en  proporcionar información climática en tiempo real combinada con mensajes de bienestar emocional y estadísticas avanzadas.
+Esta versión integra un sistema de autenticación, gestión de estado global con **Vuex**, rutas protegidas y una profunda lógica de datos metereológicos.
+
 
 
 ### 🛠️ Tecnologías y habilidades
